@@ -1,6 +1,6 @@
 
 # Projet de Porte Automatique avec Arduino
-<img src="montage.jpg"/>
+<img style="height=200px;width=200px;object-fit:cover" src="montage.jpg"/>
 Ce projet consiste à créer une porte automatique en utilisant un Arduino UNO, un capteur ultrason, un servo moteur, un écran LCD 16x2, des LEDs et des jumpers. Ce projet m'a permis de mieux me familiariser avec les composants matériels et la programmation, renforçant ainsi ma passion pour l'Internet des objets (IoT).
 
 ## Matériels utilisés
